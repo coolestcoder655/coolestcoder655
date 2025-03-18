@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coolestcoder655
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html, css, and javascript
+- 🌱 I’m currently learning html, css, javascript, and python
 - 💞️ I’m looking to collaborate on any website
 - 📫 How to reach me: khokharmaaz@gmail.com
 
