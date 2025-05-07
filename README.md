@@ -1,8 +1,9 @@
 **A dedicated developer proficient in**:
 - *Python*
-- *JavaScript*
+- *TypeScript*
 - *CSS*
 - *HTML*
+- *React*
 
 **With a strong preference for* Python *as my primary programming language.**
 
